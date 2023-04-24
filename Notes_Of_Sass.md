@@ -117,7 +117,7 @@ $text-color:#fff; </code>`
     background-color: $accent-color;
   }`
 
-## 7. 
+## 7. Extends 
 ## 8. 
 ## 9. 
 ## 10. 
