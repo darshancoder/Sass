@@ -112,13 +112,18 @@ $text-color:#fff; </code>`
 };`
 
 2. Use it Include 
-- `@include mobile{
+- `Scss @include mobile{
     flex-direction: column;
     background-color: $accent-color;
   }`
 
 ## 7. Extends 
-## 8. 
+1. Create Extends
+ - `@extend .main_paragraph1;`
+ - Here We are using Above Paragrah_1
+
+## 8. Math Operations
+1. 
 ## 9. 
 ## 10. 
 ## 11. 
